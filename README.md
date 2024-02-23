@@ -28,15 +28,15 @@ Antes de começar, certifique-se de ter o seguinte:
 
 ---
 
-### Documentação 2: Guia: Executando Tarefas com PHP, Apache e MySQL Server
+### Documentação 2: Guia: Executando Tarefas com Apache e MySQL Server
 
 #### Visão Geral
 
-Este guia abrange a execução de tarefas com PHP, Apache e MySQL Server no ambiente do myphpserver.
+Este guia abrange a execução de tarefas com Apache e MySQL Server no ambiente do myphpserver.
 
 #### Pré-requisitos
 
-- Ambiente de desenvolvimento configurado com PHP, Apache e MySQL Server.
+- Ambiente de desenvolvimento configurado com Apache e MySQL Server.
 - Acesso a recursos de desenvolvimento e administração do ambiente.
 
 #### Passo a Passo
