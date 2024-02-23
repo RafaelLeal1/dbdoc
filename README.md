@@ -113,7 +113,10 @@ Formule o Comando SQL de Exclusão:
 
 Use a seguinte estrutura do comando DELETE para formular a sua consulta:
 
+```sql
 DELETE FROM nome_da_tabela WHERE condição;
+```
+
 Substitua nome_da_tabela pelo nome da sua tabela e condição pela cláusula que identifica os registros a serem excluídos. A condição pode ser baseada em valores específicos de colunas ou outros critérios.
 
 Execute o Comando SQL:
@@ -146,7 +149,7 @@ Se você encontrar erros neste guia ou tiver sugestões para melhorias, sinta-se
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença XYZ]. Consulte o arquivo LICENSE para obter mais detalhes.
+Este projeto está licenciado sob a [LICENÇA MIT]. Consulte o arquivo LICENSE para obter mais detalhes.
 
 ---
 
