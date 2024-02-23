@@ -116,11 +116,41 @@ Antes de começar, certifique-se de ter o seguinte:
    DROP TABLE minha_tabela;
    ```
 
-3. **Verificação:**
+   ** Exclusão de dados
+
+   Passo a Passo
+Identifique os Dados a Serem Excluídos:
+
+Determine os valores dos registros que você deseja excluir da tabela. Isso pode envolver revisar os dados previamente inseridos ou identificar critérios específicos para a exclusão.
+
+Formule o Comando SQL de Exclusão:
+
+Use a seguinte estrutura do comando DELETE para formular a sua consulta:
+
+DELETE FROM nome_da_tabela WHERE condição;
+Substitua nome_da_tabela pelo nome da sua tabela e condição pela cláusula que identifica os registros a serem excluídos. A condição pode ser baseada em valores específicos de colunas ou outros critérios.
+
+Execute o Comando SQL:
+
+Utilize o cliente MySQL ou outra interface de administração de banco de dados para executar o comando DELETE que você formulou no passo anterior.
+
+Verifique os Dados Excluídos:
+
+Após executar o comando DELETE, verifique se os dados foram excluídos corretamente. Você pode usar comandos SELECT para visualizar os registros na tabela e confirmar que os registros desejados foram removidos.
+
+Documente o Processo:
+
+Capture um print ou faça anotações sobre o processo de exclusão de dados para referência futura. Isso pode ser útil para auditorias ou em casos em que você precisa rastrear alterações no banco de dados.
+
+Importante:
+Tenha cuidado ao usar o comando DELETE, pois ele remove os dados permanentemente e não pode ser desfeito.
+Sempre faça backup dos seus dados antes de executar operações de exclusão em larga escala ou irreversíveis.
+
+4. **Verificação:**
 
    Após executar os comandos SQL, verifique se os dados foram excluídos corretamente e se a tabela foi removida do banco de dados.
 
-4. **Captura de Print:**
+5. **Captura de Print:**
 
    Capture um print da execução dos comandos SQL e do estado do banco de dados após a exclusão dos dados e da tabela.
 
