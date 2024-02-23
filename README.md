@@ -73,7 +73,7 @@ INSERT INTO nome_da_tabela (nome_coluna1, nome_coluna2) VALUES ('dado1', 'dado2'
 SELECT * FROM nome_da_tabela;
 ```
 
-# Documentação 3 : Exclusão de Dados e Tabela com SQL
+### Documentação 3 : Exclusão de Dados e Tabela com SQL
 
 Este guia fornece instruções sobre como excluir os dados inseridos em uma tabela e posteriormente excluir a tabela em um banco de dados utilizando comandos SQL.
 
