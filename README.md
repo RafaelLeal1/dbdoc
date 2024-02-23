@@ -2,7 +2,6 @@
 
 ## Toda a documentação feita 
 
-Claro! Vou reformular as documentações para o README com os títulos mencionados:
 
 ### Documentação 1: Inserção de Dados em Colunas com Tipo Char (Apache e MySQL)
 
