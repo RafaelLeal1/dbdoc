@@ -41,7 +41,7 @@ Este guia abrange a execução de tarefas com PHP, Apache e MySQL Server no ambi
 
 #### Passo a Passo
 
-1. Configure o ambiente com PHP, Apache e MySQL Server.
+1. Configure o ambiente com Apache e MySQL Server.
 2. Realize tarefas específicas, como manipulação de banco de dados, execução de scripts PHP, etc.
 3. Verifique os resultados e depure quaisquer problemas encontrados.
 4. Capture prints ou registre qualquer aspecto relevante do funcionamento.
@@ -146,9 +146,7 @@ Sempre faça backup dos seus dados antes de executar operações de exclusão em
 
    Após executar os comandos SQL, verifique se os dados foram excluídos corretamente e se a tabela foi removida do banco de dados.
 
-5. **Captura de Print:**
 
-   Capture um print da execução dos comandos SQL e do estado do banco de dados após a exclusão dos dados e da tabela.
 
 ## Contribuindo
 
