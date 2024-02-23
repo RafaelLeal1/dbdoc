@@ -62,9 +62,13 @@ ADD nome_coluna1 CHAR(tamanho) DEFAULT ' ',
 ADD nome_coluna2 CHAR(tamanho) DEFAULT ' ';
 ```
 -- Inserção de Dado
+
+```sql
 INSERT INTO nome_da_tabela (nome_coluna1, nome_coluna2) VALUES ('dado1', 'dado2');
+```
 
 -- Verificação
+
 ```sql
 SELECT * FROM nome_da_tabela;
 ```
@@ -91,11 +95,12 @@ Antes de começar, certifique-se de ter o seguinte:
    Para excluir os dados inseridos na tabela, utilize o comando SQL `DELETE FROM nome_da_tabela;`. Substitua `nome_da_tabela` pelo nome da tabela onde os dados foram inseridos.
 
    Exemplo:
+   
    ```sql
    DELETE FROM minha_tabela;
    ```
 
-2. **Exclusão da Tabela:**
+3. **Exclusão da Tabela:**
 
    Após excluir os dados, você pode excluir a tabela usando o comando SQL `DROP TABLE nome_da_tabela;`. Substitua `nome_da_tabela` pelo nome da tabela que deseja excluir.
 
