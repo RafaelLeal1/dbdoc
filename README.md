@@ -2,6 +2,7 @@
 
 ## Prática MYSQL/Apache
 
+## Acompanhe também pelo Notion: https://persistent-xenon-04d.notion.site/Documenta-o-2d3ef1800ef347bfa2fdb331ed175e8c?pvs=4
 
 ### Documentação 1: Inserção de Dados em Colunas com Tipo Char (Apache e MySQL)
 
