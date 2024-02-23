@@ -24,13 +24,6 @@ Antes de começar, certifique-se de ter o seguinte:
 4. Verifique se os dados foram inseridos corretamente usando consultas SQL de seleção.
 5. Capture um print do funcionamento para documentação e verificação.
 
-#### Contribuindo
-
-Se você encontrar erros neste guia ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-#### Licença
-
-Este projeto está licenciado sob a [Licença XYZ]. Consulte o arquivo LICENSE para obter mais detalhes.
 
 ---
 
@@ -51,14 +44,6 @@ Este guia abrange a execução de tarefas com PHP, Apache e MySQL Server no ambi
 2. Realize tarefas específicas, como manipulação de banco de dados, execução de scripts PHP, etc.
 3. Verifique os resultados e depure quaisquer problemas encontrados.
 4. Capture prints ou registre qualquer aspecto relevante do funcionamento.
-
-#### Contribuindo
-
-Se você encontrar erros neste guia ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-#### Licença
-
-Este projeto está licenciado sob a [Licença XYZ]. Consulte o arquivo LICENSE para obter mais detalhes.
 
 ---
 
