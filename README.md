@@ -56,16 +56,18 @@ Aqui está a documentação para o passo a passo de exclusão dos dados inserido
 ---
 
 -- Criação das Colunas
+```sql
 ALTER TABLE nome_da_tabela # Caso precise!
 ADD nome_coluna1 CHAR(tamanho) DEFAULT ' ',
 ADD nome_coluna2 CHAR(tamanho) DEFAULT ' ';
-
+```
 -- Inserção de Dado
 INSERT INTO nome_da_tabela (nome_coluna1, nome_coluna2) VALUES ('dado1', 'dado2');
 
 -- Verificação
+```sql
 SELECT * FROM nome_da_tabela;
-
+```
 
 # Documentação 3 : Exclusão de Dados e Tabela com SQL
 
